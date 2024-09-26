@@ -13,7 +13,6 @@ I'm a student passionate about data analytics, proficient in Python and SQL. I l
 - Data Visualization tools (Power BI, Tableau)
 - Big Data technologies (Hadoop, Spark)
 🛠️ External Projects
--currently working with a team of developers in building our website and app 
-- working with another team in building another app and website for another company using python mostly and alot of html 
+made my first dashboard check it out at: https://lookerstudio.google.com/reporting/4bcdafa4-66dd-4bf2-9a2c-a2fb0ca1d07d
 💻 Tech Stack:
 Python Google Cloud MySQL scikit-learn NumPy Pandas Matplotlib Scipy Power Bi Cisco
