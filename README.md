@@ -1,5 +1,5 @@
 💫 About Me:
-Hi there, I'm levi pretty new here i got roasted for having a terrible github so lets start this thing upppppp!!!!!!!! 👋
+Hi there, I'm levi 
 
 I'm a student passionate about data analytics, proficient in Python and SQL. I love turning data into actionable insights and creating meaningful visualizations.
 🌟 Skills
